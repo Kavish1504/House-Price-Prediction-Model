@@ -1,2 +1,2 @@
 # House-Price-Prediction-Model
-Predicting house prices using regression models with EDA, preprocessing, and cross-validation in scikit-learn.
+This project demonstrates how to build predictive models for estimating house prices based on historical housing data. It covers data preprocessing, exploratory data analysis (EDA), feature engineering, and implementation of multiple machine learning algorithms (Linear Regression, Decision Tree, and Random Forest). The project uses cross-validation and RMSE evaluation to select the best-performing model.
